@@ -176,8 +176,8 @@
 }
 
 .wrapper section.about-us .video {
-    padding-right: 30px;
-    padding-top: 10px;
+    padding-right: 0px;
+    padding-top: 0px;
 }
 
 .wrapper section.about-us .video iframe {
