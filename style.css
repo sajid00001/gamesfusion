@@ -8,7 +8,7 @@
 
 img.play
 {
-  object-fit:cover;
+  width: 30px;
 }
 
 .wrapper header.header > img {
