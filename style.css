@@ -8,7 +8,8 @@
 
 img.play
 {
-  width: 30px;
+  width: 100%;
+  height: 100%
 }
 
 .wrapper header.header > img {
