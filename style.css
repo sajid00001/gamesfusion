@@ -6,6 +6,11 @@
   position: relative;
 }
 
+img.play
+{
+  object-fit:cover;
+}
+
 .wrapper header.header > img {
     position: absolute;
     width: 100%;
