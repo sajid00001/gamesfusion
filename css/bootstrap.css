@@ -2019,6 +2019,7 @@ pre code {
 }
 
 .row {
+    text-align: center;
     margin-right: -15px;
     margin-left: -15px;
 }
