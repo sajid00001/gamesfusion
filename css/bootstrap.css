@@ -38,7 +38,6 @@ canvas,
 progress,
 video {
     display: inline-block;
-    margin: 0 auto;
    /* vertical-align: center;*/
 }
 
