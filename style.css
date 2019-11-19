@@ -864,10 +864,11 @@ img.googleplay
 
 .wrapper section.contact-area .contact-form {
     background: #fff none repeat scroll 0 0;
-    /*box-shadow: -9px 1px 15px rgba(0, 0, 0, 0.15);*/
-    margin: 135px auto -50px;
     padding: 40px 135px;
-    width: 730px;
+    /*box-shadow: -9px 1px 15px rgba(0, 0, 0, 0.15);
+    margin: 135px auto -50px;
+    
+    width: 730px; */
 }
 
 .wrapper section.contact-area .contact-form input[type="text"],
