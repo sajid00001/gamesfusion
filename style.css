@@ -4,8 +4,7 @@
   background-size:100% auto;
   height: 100%;
   width: auto;
-  /*position: relative; */
-  text-align: center;
+  position: relative;
 }
 
 img.googleplay
