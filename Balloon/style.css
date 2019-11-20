@@ -103,7 +103,9 @@ img {
 	border: none;
 	max-width: 100%;
 }
-
+img.ss {
+	opacity: 1.0;
+}
 code {
 	background-color: #ee6e73;
 	border-radius: 2px;
