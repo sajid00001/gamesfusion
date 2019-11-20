@@ -2,7 +2,8 @@
   background-image: url("img/header-bg.jpg");
   background-repeat: no-repeat;
   background-size: 100% auto;
-  height: auto;
+  height: 950px;
+  width: auto;
   position: relative;
 }
 
