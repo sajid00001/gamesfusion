@@ -230,8 +230,8 @@ button:focus {
 .mu-header-overlay {
 	display: inline;
 	float: left;
-	opacity: 0.8;
 	width: 100%;
+	background: rgba(100,100,100,0.8);
 }
 
 .mu-logo-area {
