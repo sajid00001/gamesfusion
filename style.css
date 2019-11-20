@@ -4,7 +4,7 @@
   background-size:100% auto;
   height: 950px;
   width: auto;
-  position: relative;
+  /*position: relative; */
   text-align: center;
 }
 
@@ -17,8 +17,6 @@ img.googleplay
 
 .wrapper header.header > img {
     position: absolute;
-    max-width:100%;
-    height:auto;
 }
 
 .wrapper header.header .header-top .logo {
