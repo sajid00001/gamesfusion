@@ -402,8 +402,8 @@
 @media (min-width: 80px) and (max-width: 480px) {
 	
 	.wrapper header.header {
-	  background-size: 150% auto;
-		height: 3000px;
+	  background-size: 300% auto;
+	
 	
 	}
 	
