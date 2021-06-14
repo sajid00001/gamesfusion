@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "HTML 5 Game",
+"productVersion": "0.1",
+"dataUrl": "HTML-Game-Treasure.data.unityweb",
+"wasmCodeUrl": "HTML-Game-Treasure.wasm.code.unityweb",
+"wasmFrameworkUrl": "HTML-Game-Treasure.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#80407E",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.26f1"
+}
